@@ -1,0 +1,15 @@
+[
+    {
+        "s3": {
+            "bucket": {
+                "name": "buket-name"
+            },
+            "object": {
+                "key": "dir/data.csv"
+            }
+        },
+        "dynamoDB": {
+            "TableName": "table-name"
+        }
+    }
+]
